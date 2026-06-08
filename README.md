@@ -1,2 +1,2 @@
 # DIHiCu
-DIHiC—"Documentation of Internet History &amp; Culture"
+DIHiCu—"Documentation of Internet History &amp; Culture"
