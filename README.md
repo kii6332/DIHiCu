@@ -1,2 +1,2 @@
 # DIHiC
-DIHiC—"The Internet History &amp; Culture Archive"
+DIHiC—"Documentation of Internet History &amp; Culture"
